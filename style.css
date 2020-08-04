@@ -66,7 +66,12 @@ body {
     color: #000;
  }
 
-@keyframes slider {
+
+.slide_bar {
+    padding: 165px;
+    background-color: #2D3149;
+}
+  @keyframes slider {
 
     0% {
         left:0;
