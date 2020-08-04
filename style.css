@@ -68,7 +68,7 @@ body {
 
 
 .slide_bar {
-    padding: 115px;
+    padding: 65px;
     background-color: #2D3149;
 }
   @keyframes slider {
@@ -133,5 +133,5 @@ body {
 
 }
 .deepfake_img1 {
-    
+
 }
