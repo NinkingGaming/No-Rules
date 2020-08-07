@@ -11,9 +11,7 @@ body {
  }
 
 
- body1 {
-     
- }
+
 
  p1 {
      font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
@@ -132,7 +130,8 @@ body {
     animation: 20s slider infinite; 
 
 }
-.deepfake_img1 {
-    
-}
 
+.image5 {
+    height: 797px;
+    width: 960px;
+}
