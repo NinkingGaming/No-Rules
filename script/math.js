@@ -11,7 +11,7 @@ console.log( loadChance2)
 console.log( 'Code Generated: ', loadChanceComplete )
 
 if ( loadChance1 + loadChance2 == 16) {
-    window.open("/pages/youwon.html" , "_blank");
+    window.open("https://youtu.be/Fzf3nz5Mob0" , "_blank");
     console.log("You won!!")
 }
 
@@ -32,5 +32,10 @@ if ( loadChance1 + loadChance2 == 8) {
 
 if ( loadChance1 + loadChance2 == 23) {
     window.open("https://youtu.be/ttecPpG_b3M" , "_blank");
+    console.log("lol")
+}
+
+if ( loadChance1 + loadChance2 == 43) {
+    window.open("https://youtu.be/bzNYasFYZFg" , "_blank");
     console.log("lol")
 }
