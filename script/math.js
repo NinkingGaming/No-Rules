@@ -19,3 +19,8 @@ if ( loadChance1 + loadChance2 == 21) {
     window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ" , "_blank");
     console.log("Fuck You LOL")
 }
+
+if ( loadChance1 + loadChance2 == 57) {
+    window.open("https://www.youtube.com/watch?v=qRdK18gZems" , "_blank");
+    console.log("lol")
+}
