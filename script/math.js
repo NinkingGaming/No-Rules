@@ -39,3 +39,8 @@ if ( loadChance1 + loadChance2 == 43) {
     window.open("https://youtu.be/bzNYasFYZFg" , "_blank");
     console.log("lol")
 }
+
+if ( loadChance1 + loadChance2 == 38) {
+    window.open("https://youtu.be/aPJe92ngFXI" , "_blank");
+    console.log("lol")
+}
