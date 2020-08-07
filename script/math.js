@@ -24,3 +24,13 @@ if ( loadChance1 + loadChance2 == 57) {
     window.open("https://www.youtube.com/watch?v=qRdK18gZems" , "_blank");
     console.log("lol")
 }
+
+if ( loadChance1 + loadChance2 == 8) {
+    window.open("https://youtu.be/2Tn1dO680Qo" , "_blank");
+    console.log("lol")
+}
+
+if ( loadChance1 + loadChance2 == 23) {
+    window.open("https://youtu.be/ttecPpG_b3M" , "_blank");
+    console.log("lol")
+}
