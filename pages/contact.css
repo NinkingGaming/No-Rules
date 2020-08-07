@@ -66,4 +66,9 @@ body {
     color: #000;
  }
 
- 
+ .email {
+   color: #FFADC1; 
+   padding-left: 500px;
+   padding-top: 15px;
+   
+}
